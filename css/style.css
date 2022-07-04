@@ -1,4 +1,17 @@
+body {
+    height: 1546px;
+    width: 1056px;
+    align-items: center;
+}
+
 /* head */
+header {
+    background-image: url(../images/pattern.png);
+    background-color: #4fa0ff;
+    margin-bottom: 0%;
+}
+
+#logo {}
 
 /* /head */
 
