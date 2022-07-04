@@ -1,19 +1,23 @@
 body {
     height: 1546px;
     width: 1057px;
-    align-items: center;
 }
 
-/* head */
+/* header */
 header {
+    width: 1057px;
+    height: 180px;
     background-image: url(../images/pattern.png);
     background-color: #4fa0ff;
-    margin-bottom: 0%;
 }
 
-#logo {}
+#logo {
+    height: 100px;
+    width: 400px;
+    padding-top: 90px;
+}
 
-/* /head */
+/* /header */
 
 /* main */
 
